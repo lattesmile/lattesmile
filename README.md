@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @lattesmile
 - 👀 I’m interested in sports and video games.
-- 🌱 I’m currently learning files and functions.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning PHP ORM
+- 📫 How to reach me: GitHub or my LinkedIn
 
 <!---
 lattesmile/lattesmile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
