@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lattesmile
 - 👀 I’m interested in sports and video games.
-- 🌱 I’m currently learning PHP ORM
+- 🌱 I’m currently refactoring the frontend of a drone delivery service.
 - 📫 How to reach me: GitHub or my LinkedIn
 
 <!---
