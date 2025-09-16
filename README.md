@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lattesmile
 - 👀 I’m interested in sports and video games.
-- 🌱 I’m currently refactoring the frontend of a drone delivery service.
+- 🌱 I’m currently using NodeRED and React Native.
 - 📫 How to reach me: GitHub or my LinkedIn
 
 <!---
